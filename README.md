@@ -17,4 +17,5 @@
 * Depression Distribution: 56.86% of students reported depression symptoms, while 43.14% did not.
 
 * Screen Short Link: https://github.com/Satyamsingh3236/Student-Depersion-Dashboard/blob/main/Screenshot%202025-05-06%20172934.png
-* 
+
+ 
